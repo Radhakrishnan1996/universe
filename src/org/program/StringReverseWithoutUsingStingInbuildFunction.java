@@ -2,6 +2,10 @@ package org.program;
 
 public class StringReverseWithoutUsingStingInbuildFunction {
 	
+	private void string() {
+
+	}
+	
 	public static void main(String[] args) {
 		
 		String s= "hello";
